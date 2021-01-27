@@ -1,0 +1,19 @@
+{
+  "name": "closures",
+  "version": "1.0.0",
+  "description": "\"About closures, its practical usage, features, some coding examples\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "shashiOL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashol92/closures/issues"
+  },
+  "homepage": "https://github.com/shashol92/closures#readme"
+}
